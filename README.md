@@ -1,4 +1,4 @@
-# Programmiererfahrungen mit R, Stata und Python:
+# Programmiererfahrungen mit R und Stata:
 *Luca Schmidt*
 
 ## Erfahrungen mit R:
@@ -9,8 +9,6 @@
 - Aufbereitung von Daten und Erstellung von Streudiagrammen
 
 ## Erfahrungen mit Stata:
-### Praktikum am Zentrum für Europäische Wirtschaftsforschung (3 Monate)
-- Aufbereitung, Erhebung und Zusammenführung von Datensätzen 
 ### Bachelorarbeit
 - Datenaufbereitung: Zusammenführung verschiedener Datensätze, Aufbereitung der Daten u.a. Aggregation der Daten auf Distrikt Level, Verknüpfung mit einem weiteren Datensatz über Namen
 - Regressionsanalyse: OLS Regression, FE Regressionen, Verschiedene Tests u.a. auf Homoskedastizität, Serielle Korrelation AR (1) Test oder gemeinsame Signifikanz von Dummy-Variablen	
